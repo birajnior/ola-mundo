@@ -22,7 +22,7 @@
 
 .imagens {
   position: relative;
-  height: 406px;
+  height: 450px;
 }
 
 .imagens > .minhaFoto {
@@ -49,23 +49,26 @@
   .titulo {
     margin-top: 0;
     margin-bottom: 1.5rem;
+    font-size: 3rem;
   }
 
   .paragrafo {
     margin-bottom: 1.5rem;
+    font-size: 1.2rem;
   }
 
   .imagens {
-    height: 338px;
+    height: 350px;
   }
 
   .imagens > .minhaFoto {
-    width: 25vw;
+    width: 23vw;
+    height: 18vh;
   }
 
   .imagens > .circuloColorido {
     right: 10vw;
-    width: 35vw;
+    width: 30vw;
   }
 }
 
@@ -96,6 +99,7 @@
 
   .imagens > .minhaFoto {
     width: 170px;
+    height: 19vh;
     transform: translate(5rem, 0px);
   }
 
